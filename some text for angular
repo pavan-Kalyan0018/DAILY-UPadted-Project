@@ -1,0 +1,30 @@
+ <link rel="stylesheet" href="/path/to/material-icons/iconfont/material-icons.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  ----------------------------------------------------------------------------------------------
+  background-color :
+  
+  
+  body {
+    /* background-image: url("assets/bg.jpg"); */
+    background-color: cyan;
+    /* background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0; */
+    
+
+
+}
+
+-------------------------------------------------
+material icon install
+
+link :
+https://www.w3schools.com/icons/google_icons_action.asp
+
+install command:
+
+npm install material-icons
